@@ -6,3 +6,5 @@ and have 1 and 1 different commits each, respectively.
 Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
         new file:   "23 \354\234\244\354\204\261\353\257\274/assignment 2-2.txt"
+
+Hi

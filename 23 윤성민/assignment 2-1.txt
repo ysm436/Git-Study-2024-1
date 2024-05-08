@@ -1,0 +1,11 @@
+commit b82e8aac256a61eaa53422f616eeed2f08f5f107 (HEAD -> main)
+Author: ysm436 <endtlr2004@gmail.com>
+Date:   Thu May 9 08:16:02 2024 +0900
+
+    23 윤성민 assignment 2-2
+
+commit 8cf7748ca16a582d0b2957249d2aa3d435bfeb88
+Author: ysm436 <endtlr2004@gmail.com>
+Date:   Thu May 9 07:35:23 2024 +0900
+
+    23 윤성민 assignment 2-1
